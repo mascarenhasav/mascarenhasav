@@ -16,7 +16,7 @@
 
 <div id="body" align="left">
   <h1>
-    $\textbf{\color{green}{[}}$ $\textbf{\color{#66D9EF}{ \~{} }}$ $\textbf{\color{green}{]}}$ $ Whoami
+    $\textbf{\color{green}{[}}$ $\textbf{\color{#66D9EF}{ \~{} }}$ $\textbf{\color{green}{]}}$ $ <span style="font-family: 'Lucida Console';">Whoami</span>
     <br><br>
     Hello, I am Alexandre Mascarenhas
   </h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -40,9 +40,12 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
     </div>
   </h1>
+  
+  <!--
   <h1>
     $\textbf{\color{green}{[}}$ $\textbf{\color{#66D9EF}{ \~{} }}$ $\textbf{\color{green}{]}}$ $ Stats
     <br><br>
   </h1>
+  --!>
+  
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mascarenhasav&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)

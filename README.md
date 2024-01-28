@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9jZ29pZHJjMGh2cGRoMHJuNDl3ZGdlNjMzeTg4bmQ2aWxqc2x1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohrywOqJIshUgchIQ/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://mascarenhasav.github.io/">
-      <img src="https://img.shields.io/badge/Websiter-gray?style=for-the-badge&logo=proteus&logoColor=green" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=proteus&logoColor=green" alt="Twitter Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/alexandre-mascarenhas-2889b890/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

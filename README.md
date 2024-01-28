@@ -4,10 +4,10 @@
     <a href="https://mascarenhasav.github.io/">
       <img src="https://img.shields.io/badge/Websiter-gray?style=for-the-badge&logo=proteus&logoColor=green" alt="Twitter Badge"/>
     </a>
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/alexandre-mascarenhas-2889b890/)">
+    <a href="https://www.linkedin.com/in/alexandre-mascarenhas-2889b890/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/channel/UCR073VUmjHDjmjZqHPRuH-Q">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
@@ -21,7 +21,7 @@
 
   ### :woman_technologist: About Me :
   I am just a latin american guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil :)
-  - :telescope: Currently I work as a Research Assistant in Embedded Engineering at Sony Computer Science Labs.
+  - :telescope: Currently working as a Research Assistant in Embedded Engineering at Sony Computer Science Labs.
 
 ---
 

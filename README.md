@@ -23,7 +23,7 @@
   <h1>
     $\textbf{\color{green}{[}}$ $\textbf{\color{#66D9EF}{ \~{} }}$ $\textbf{\color{green}{]}}$ $ About me
     <br><br>
-    I like science and technology. You can always find skateboarding around    
+    I like science and technology. You can always find me skateboarding and/or drinking around    
   </h1>
   <h1>
     $\textbf{\color{green}{[}}$ $\textbf{\color{#66D9EF}{ \~{} }}$ $\textbf{\color{green}{]}}$ $ Current job
